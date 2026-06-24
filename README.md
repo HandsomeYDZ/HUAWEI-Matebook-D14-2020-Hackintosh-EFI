@@ -8,9 +8,9 @@ OpenCore EFI for HUAWEI MateBook D14 2020.
 - Tested macOS: Ventura `13.7.8`
 - Laptop model: HUAWEI MateBook D14 2020
 
-本仓库由 `/Volumes/EFI/EFI` 整理而来，已移除旧配置备份、启动日志、压缩包、Spotlight 文件、回收站目录和 macOS AppleDouble 元数据。
+本仓库仅保留启动所需的 EFI 文件，可作为同型号机器的配置参考。
 
-This repository was prepared from `/Volumes/EFI/EFI`. Old config backups, boot logs, zip archives, Spotlight files, trash folders, and macOS AppleDouble metadata were removed.
+This repository keeps only the EFI files needed for booting and can be used as a reference for the same laptop model.
 
 ## 使用前必看 / Before You Use
 
