@@ -7,6 +7,9 @@ OpenCore EFI for HUAWEI MateBook D14 2020.
 - OpenCore: `1.0.7`
 - Tested macOS: Ventura `13.7.8`
 - Laptop model: HUAWEI MateBook D14 2020
+- CPU: i7-10510U
+- GPU: UHD-620
+- Screen: BOE 1920 x 1080
 
 本仓库仅保留启动所需的 EFI 文件，可作为同型号机器的配置参考。
 
