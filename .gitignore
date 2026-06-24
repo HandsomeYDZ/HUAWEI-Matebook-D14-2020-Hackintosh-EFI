@@ -1,0 +1,10 @@
+.DS_Store
+._*
+*.log
+*.bak
+*.zip
+.Spotlight-V100/
+.Trashes/
+.TemporaryItems/
+$RECYCLE.BIN/
+System Volume Information/
